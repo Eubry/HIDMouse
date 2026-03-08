@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${IDF_PATH}/components/**",
+                "${workspaceFolder}/build/config"
+            ],
+            "defines": [
+                "ESP_PLATFORM"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "${IDF_PATH}/tools/xtensa-esp32s3-elf/esp-13.2.0_20230928/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-gcc.exe"
+        }
+    ],
+    "version": 4
+}
