@@ -51,6 +51,8 @@ C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_usb_serial_jtag/libesp_driver_usb_serial_jtag.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_hal_usb/libesp_hal_usb.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_gdbstub/libesp_gdbstub.a
+C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_coex/libesp_coex.a
+C:/Users/eubry/esp/v6.0/esp-idf/components/esp_coex/lib/esp32s3/libcoexist.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_adc/libesp_adc.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_i2s/libesp_driver_i2s.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_hal_i2s/libesp_hal_i2s.a
@@ -66,7 +68,6 @@ C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_phy/libesp_phy.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_netif/libesp_netif.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/wpa_supplicant/libwpa_supplicant.a
-C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_coex/libesp_coex.a
 C:/Users/eubry/esp/v6.0/esp-idf/components/esp_wifi/lib/esp32s3/libcore.a
 C:/Users/eubry/esp/v6.0/esp-idf/components/esp_wifi/lib/esp32s3/libespnow.a
 C:/Users/eubry/esp/v6.0/esp-idf/components/esp_wifi/lib/esp32s3/libmesh.a
@@ -125,6 +126,9 @@ C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_wifi/libesp_wifi.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_spi/libesp_driver_spi.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_gdbstub/libesp_gdbstub.a
+C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/bt/libbt.a
+C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_spi/libesp_driver_spi.a
+C:/Users/eubry/esp/v6.0/esp-idf/components/bt/controller/lib_esp32c3_family/esp32s3/libbtdm_app.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/unity/libunity.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/cmock/libcmock.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/unity/libunity.a
@@ -158,13 +162,13 @@ C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_sdmmc/libesp_driver_sdmmc.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_sd_intf/libesp_driver_sd_intf.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a
-C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_spi/libesp_driver_spi.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_touch_sens/libesp_driver_touch_sens.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_tsens/libesp_driver_tsens.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_twai/libesp_driver_twai.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_eth/libesp_eth.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_hal_lcd/libesp_hal_lcd.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_hid/libesp_hid.a
+C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/bt/libbt.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/tcp_transport/libtcp_transport.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_http_client/libesp_http_client.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_http_server/libesp_http_server.a
@@ -190,3 +194,4 @@ C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/spiffs/libspiffs.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/main/libmain.a
 C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_driver_ledc/libesp_driver_ledc.a
+C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/esp_hid/libesp_hid.a

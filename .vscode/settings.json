@@ -1,4 +1,13 @@
 {
     "idf.currentSetup": "C:\\Users\\eubry\\esp\\v6.0\\esp-idf",
-    "cmake.sourceDirectory": "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/sample_project"
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    //"cmake.sourceDirectory": "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/sample_project",
+    "idf.portWin": "COM11",
+    "idf.flashType": "UART",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32s3"
+    }
 }
