@@ -7,13 +7,20 @@
         "${IDF_PATH}/components/**",
         "${IDF_PATH}/components/bt/include/**",
         "${IDF_PATH}/components/bt/host/bluedroid/api/include/**",
+        "${IDF_PATH}/components/freertos/FreeRTOS-Kernel-SMP/portable/xtensa/include",
+        "${IDF_PATH}/components/freertos/FreeRTOS-Kernel-SMP/portable/xtensa/include/freertos",
+        "${IDF_PATH}/components/freertos/FreeRTOS-Kernel/portable/xtensa/include",
+        "${IDF_PATH}/components/freertos/FreeRTOS-Kernel/portable/xtensa/include/freertos",
         "${workspaceFolder}/build/config"
       ],
+      "compileCommands": "${workspaceFolder}/build/compile_commands.json",
       "browse": {
         "path": [
           "${IDF_PATH}/components/**",
           "${IDF_PATH}/components/bt/include/**",
           "${IDF_PATH}/components/bt/host/bluedroid/api/include/**",
+          "${IDF_PATH}/components/freertos/FreeRTOS-Kernel-SMP/portable/xtensa/include",
+          "${IDF_PATH}/components/freertos/FreeRTOS-Kernel/portable/xtensa/include",
           "${workspaceFolder}"
         ],
         "limitSymbolsToIncludedHeaders": true

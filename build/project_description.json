@@ -1595,12 +1595,12 @@
             "dir": "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/main",
             "type": "LIBRARY",
             "lib": "__idf_main",
-            "reqs": [ "esp_timer", "freertos", "esp_system", "esp_wifi", "esp_netif", "bt", "nvs_flash", "esp_driver_gpio", "esp_driver_ledc", "esp_http_server", "esp_hid" ],
+            "reqs": [ "esp_timer", "freertos", "esp_system", "esp_wifi", "esp_netif", "bt", "nvs_flash", "esp_driver_gpio", "esp_driver_ledc", "esp_driver_i2c", "esp_http_server", "esp_hid" ],
             "priv_reqs": [],
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/main/main.cpp", "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/lib/DevBLib/Common/libraries/Counter/Counter.cpp" ],
+            "sources": [ "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/main/main.cpp", "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/main/esp_hid_gap.c", "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/lib/DevBLib/Common/libraries/Counter/Counter.cpp" ],
             "include_dirs": [ ".", "../lib/DevBLib/Common/libraries/Counter" ]
         },
         "mbedtls": {
@@ -3591,7 +3591,7 @@
             "dir": "C:/Users/eubry/OneDrive/Documents/Programs/Protoboard/ESP32/ESPIDF/S3_Supermini/HIDMouse/main",
             "source": "project_components",
             "lib": "__idf_main",
-            "reqs": [ "esp_timer", "freertos", "esp_system", "esp_wifi", "esp_netif", "bt", "nvs_flash", "esp_driver_gpio", "esp_driver_ledc", "esp_http_server", "esp_hid" ],
+            "reqs": [ "esp_timer", "freertos", "esp_system", "esp_wifi", "esp_netif", "bt", "nvs_flash", "esp_driver_gpio", "esp_driver_ledc", "esp_driver_i2c", "esp_http_server", "esp_hid" ],
             "priv_reqs": [],
             "managed_reqs": [],
             "managed_priv_reqs": [],
